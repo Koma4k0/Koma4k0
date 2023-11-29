@@ -3,7 +3,5 @@
 
 - How to reach me:
 - Discord: Koma4k [1133030912397938820]
-- Discord Server: https://discord.gg/santasmarket
-- Website: Currently in development!
-
-If you are looking for a Python or Javascript developer contact me via my discord server!
+- [Discord Server](https://koma4k.xyz/discord)
+- [My Website](https://koma4k.xyz/)
