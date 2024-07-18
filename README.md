@@ -5,7 +5,6 @@
 </h1>
 <h3 align="center">Self-taught Developer!</h3>
 <h3 align="center">Website: https://koma4k.xyz/</h3>
-<p align="center">[Contact Me](https://discord.com/users/1133030912397938820)</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=koma4k0&label=Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="koma4k0" /> </p>
 
