@@ -1,6 +1,6 @@
 <h1 align="center">
   <samp>
-    Welcome! I am <a target="_blank" href="https://hypetools.xyz">Koma4k</a></b>
+    Welcome! I am <a target="_blank" href="https://koma4k.xyz">Koma4k</a></b>
   </samp>
 </h1>
 <h3 align="center">&gt; Self-taught Developer!</h3>
