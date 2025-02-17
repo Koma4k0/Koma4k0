@@ -8,7 +8,6 @@
 
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=koma4k0&label=Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="koma4k0" /> </p>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koma4k0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
