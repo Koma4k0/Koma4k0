@@ -8,7 +8,7 @@
 
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=koma4k0&label=Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="koma4k0" /> </p>
-<a href="https://u8views.com/github/Koma4k0"><img src="https://u8views.com/api/v1/github/profiles/147834010/views/day-week-month-total-count.svg"></a>
+<a align="center" href="https://u8views.com/github/Koma4k0"><img src="https://u8views.com/api/v1/github/profiles/147834010/views/day-week-month-total-count.svg"></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koma4k0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
